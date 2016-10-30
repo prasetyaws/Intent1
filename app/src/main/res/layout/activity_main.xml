@@ -11,4 +11,15 @@
     tools:context="id.sch.learnsmktelkom_mlg.inten1.MainActivity"
     android:orientation="vertical">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:id="@+id/textView" />
+
+    <Button
+        android:layout_width="347dp"
+        android:layout_height="wrap_content"
+        android:text="Hitung"
+        android:id="@+id/buttonHitung" />
 </LinearLayout>
